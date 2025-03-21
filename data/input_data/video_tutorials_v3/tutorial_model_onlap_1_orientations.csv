@@ -1,0 +1,5 @@
+X,Y,Z,azimuth,dip,polarity,formation
+1000,500,100,90,0,1,rock1
+1000,500,300,90,0,1,onlap_rock
+1000,500,400,90,0,1,rock2
+1000,500,500,90,0,1,rock3
